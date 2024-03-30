@@ -1,0 +1,7 @@
+Silhouette of 8950 units in 3 clusters from silhouette.default(x = cut_tree_result, dist = dist_matrix) :
+ Cluster sizes and average silhouette widths:
+     8921        22         7 
+0.8385623 0.4975526 0.6420463 
+Individual silhouette widths:
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.3252  0.8442  0.8881  0.8376  0.8974  0.9228 
