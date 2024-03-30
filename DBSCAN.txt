@@ -1,0 +1,9 @@
+DBSCAN clustering for 569 objects.
+Parameters: eps = 0.5, minPts = 5
+Using euclidean distances and borderpoints = TRUE
+The clustering contains 0 cluster(s) and 569 noise points.
+
+  0 
+569 
+
+Available fields: cluster, eps, minPts, dist, borderPoints
